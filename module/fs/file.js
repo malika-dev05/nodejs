@@ -3,3 +3,5 @@ const fs = require("fs");
 
 let data = fs.readFileSync("./try.txt", "utf-8");
 console.log(data);
+
+console.log("adsasdadasd");
